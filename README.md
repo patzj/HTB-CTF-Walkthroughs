@@ -1,5 +1,5 @@
-# HTB Walkthroughs
-Hack The Box walkthroughs / write-ups.
+# HTB CTF Walkthroughs
+Hack The Box CTF walkthroughs / write-ups.
 
 ## Challenges
 
