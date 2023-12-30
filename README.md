@@ -1,6 +1,9 @@
-# HTB-Challenges
+# HTB Walkthroughs
+Hack The Box walkthroughs / write-ups.
 
-## Web
+## Challenges
+
+### Web
 - https://github.com/patzj/HTB-Challenges-Web-Saturn
 - https://github.com/patzj/HTB-Challenges-Web-Neonify
 - https://github.com/patzj/HTB-Challenges-Web-COP
