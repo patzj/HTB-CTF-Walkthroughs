@@ -10,3 +10,4 @@ Hack The Box CTF walkthroughs / write-ups.
 - https://github.com/patzj/HTB-Challenges-Web-RenderQuest
 - https://github.com/patzj/HTB-Challenges-Web-EasterBunny
 - https://github.com/patzj/HTB-Challenges-Web-No-Threshold
+- https://github.com/patzj/HTB-Challenges-Web-TwoDots-Horror
